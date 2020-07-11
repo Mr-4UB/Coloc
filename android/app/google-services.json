@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596107836708",
+    "firebase_url": "https://coloco-6e876.firebaseio.com",
+    "project_id": "coloco-6e876",
+    "storage_bucket": "coloco-6e876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596107836708:android:55d4f260efe46e5bf2c7b1",
+        "android_client_info": {
+          "package_name": "com.example.colocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596107836708-qd0k6ijrahqnpce4bf2l8rl0ipj5hp6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbidhRpOO6u44gwFy8sJdEFCZXpkmdz1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596107836708-qd0k6ijrahqnpce4bf2l8rl0ipj5hp6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
